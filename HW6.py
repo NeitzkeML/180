@@ -24,3 +24,4 @@ if predictions[0] == 1:
     print("MIL Brewers will make the playoffs")
 else:
     print("MIL Brewers will not make the playoffs")
+    print("The prediction model is only 80 percent acccuate, so the Brewers may still make the playoffs!!")
